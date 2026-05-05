@@ -1,36 +1,3 @@
-Öğe seçilmedi 
-
-İçeriğe atla
-Gmail ürününü ekran okuyucularla birlikte kullanma
-7.763 ileti dizisinden 1.
-İçerik Kontrol Tool'u Deneme
-Gelen Kutusu
-
-Feyzan Aybar
-Ekler
-13:22 (30 dakika önce)
-Alıcı: ben
-
-Nizam selam,
-
-Bu toolu çalıştırabiliyor musun? Çalıştırabiliyorsan eğer birkaç deneme yapıp bana notlarını iletir misin? Güzel bir sonuç elde edersek bundan sonra bunu kullanacağız. Geri dönüşünü bekliyorum.
-
-Kolaylıklar,
-İyi çalışmalar dilerim,
-
---
-	
- linkedin	
-Feyzan Ece Aybar
-instagram	Content Consultant
-feyzan.aybar@sempeak.com
-facebook	+90 216 550 01 35
-sempeak.com
-twitter	Sırmaperde sk. No:25/3 Üsküdar/İstanbul
-
-Please consider the environment before printing this email
- Bir ek
-  •  Gmail tarafından tarandı
 <!DOCTYPE html>
 <html lang="tr">
 <head>
@@ -867,5 +834,3 @@ Please consider the environment before printing this email
   </script>
 </body>
 </html>
-sempeak-icerik-kontrol-araci.html
-sempeak-icerik-kontrol-araci.html görüntüleniyor. 
